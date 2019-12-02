@@ -7,6 +7,9 @@ Excel2016で選択したアクティブセルが太枠表示されない原因�
 　https://ameblo.jp/nabezou3/entry-12544386158.html
 <br>
 <br>
+※お約束ですが、重要なファイルは保存した後、実行は自己責任でお願いします。(^^)
+<br>
+<br>
 ※参考資料URL：<br>
 \[BCB Client\]<br>
 ・[マウスのグローバルフック](http://bcb.client.jp/tips/008_mouse_ghook_dll.html)<br>
