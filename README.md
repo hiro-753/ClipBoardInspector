@@ -21,6 +21,9 @@ WM_PASTEメッセージが発生しないのにWM_RENDERFORMATメッセージが
 ・Excel 2016で選択したアクティブセルが太枠表示されない原因調査ツールリリース<br>
 　https://ameblo.jp/nabezou3/entry-12551286051.html<br>
 <br>
+・Excel 2016で選択したアクティブセルが太枠表示されない原因調査ツールソースコード公開<br>
+　https://ameblo.jp/nabezou3/entry-12558587486.html<br>
+<br>
 ※お約束ですが、重要なファイルは保存した後、実行は自己責任でお願いします。(^^)
 <br>
 <br>
